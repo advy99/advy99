@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**advy99/advy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:construction: Under construction :construction:
 
-Here are some ideas to get you started:
+### 💾 Languages I know and use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img align="left" alt="LaTeX" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/>](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+[<img align="left" alt="Ruby" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1920px-LaTeX_project_logo_bird.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
+[<img align="left" alt="Shell" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[<img align="left" alt="CLIPS" height="30px" src="http://www.clipsrules.net/clipslogo.png"/>](https://en.wikipedia.org/wiki/CLIPS)
+
+
+And many more ...
+
+  
+### 🚀 Technologies I like
+
+[<img align="left" alt="Linux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"/>](https://en.wikipedia.org/wiki/Linux)
+[<img align="left" alt="CMake" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/600px-Cmake.svg.png"/>](https://en.wikipedia.org/wiki/CMake)
+[<img align="left" alt="Vim" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
+[<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
