@@ -23,3 +23,9 @@ And many more ...
 [<img align="left" alt="Vim" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
+
+<br/>
+
+### My PC configuration
+
+Actually I am using Arch Linux and my dotfiles are available [here](https://github.com/advy99/dotfiles)
