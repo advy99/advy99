@@ -1,6 +1,15 @@
 ### Hello there 👋
 
-:construction: Under construction :construction:
+I am a Computer Science student at the University of Granada, interested in metaheuristics, machine learning and AI.
+
+Here you are going to find differents projects, from practicals of subjects of the degree in CS to personal projects.
+
+My social networks are:
+
+<a href="https://twitter.com/advy99" target="_blank" rel="nofollow"><img align="left" alt="advy99's Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  
+<a href="https://ko-fi.com/advy99" target="_blank" rel="nofollow"><img align="left" alt="advy99's Twitter" height="30px" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" />
+
 
 ### 💾 Languages I know and use
 
@@ -24,6 +33,8 @@ And many more ...
 [<img align="left" alt="Vim" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
+[<img align="left" alt="OpenGL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/120px-Opengl-logo.svg.png"/>](https://en.wikipedia.org/wiki/OpenGL)
+[<img align="left" alt="SDL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Simple_DirectMedia_Layer_%28logo%29.png"/>](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
 
 <br/>
 
