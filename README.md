@@ -10,6 +10,8 @@ My social networks are:
   
 <a href="https://ko-fi.com/advy99" target="_blank" rel="nofollow"><img align="left" alt="advy99's Twitter" height="30px" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" />
 
+<br/>
+
 
 ### 💾 Languages I know and use
 
