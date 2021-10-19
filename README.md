@@ -1,9 +1,3 @@
-## WARNING:
-
-This profile is in maintenance, now my main Git forge is GitLab: https://gitlab.com/advy99
-
-I will clone my repositories here, but don't expect these to be updated. Please if you want to see or contribute in my work consider to use GitLab.
-
 ### Hello there 👋
 
 I am a Computer Science student at the University of Granada, interested in metaheuristics, machine learning and AI.
