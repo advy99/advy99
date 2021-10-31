@@ -34,7 +34,7 @@ And many more ...
 [<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
 [<img align="left" alt="OpenGL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/120px-Opengl-logo.svg.png"/>](https://en.wikipedia.org/wiki/OpenGL)
-[<img align="left" alt="SDL" height="30px" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Simple_DirectMedia_Layer_%28logo%29.png"/>](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
+[<img align="left" alt="SDL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg"/>](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
 
 <br/>
 
