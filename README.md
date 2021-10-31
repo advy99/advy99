@@ -21,7 +21,8 @@ My social networks are:
 [<img align="left" alt="Ruby" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1920px-LaTeX_project_logo_bird.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
 [<img align="left" alt="Shell" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [<img align="left" alt="CLIPS" height="30px" src="http://www.clipsrules.net/clipslogo.png"/>](https://en.wikipedia.org/wiki/CLIPS)
-
+[<img align="left" alt="LUA" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>](https://en.wikipedia.org/wiki/Lua_(programming_language))
+  
 And many more ...
 
   
@@ -34,8 +35,8 @@ And many more ...
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
 [<img align="left" alt="OpenGL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/120px-Opengl-logo.svg.png"/>](https://en.wikipedia.org/wiki/OpenGL)
 [<img align="left" alt="SDL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg"/>](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
-[<img align="left" alt="" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>](https://en.wikipedia.org/wiki/NumPy)
-[<img align="left" alt="" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>](https://en.wikipedia.org/wiki/Keras)
+[<img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>](https://en.wikipedia.org/wiki/NumPy)
+[<img align="left" alt="Keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>](https://en.wikipedia.org/wiki/Keras)
 
 
 <br/>
