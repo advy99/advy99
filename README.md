@@ -16,6 +16,7 @@ My social networks are:
 [<img align="left" alt="C" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1024px-The_C_Programming_Language_logo.svg.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img align="left" alt="R" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>](https://en.wikipedia.org/wiki/R_(programming_language))
 [<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img align="left" alt="LaTeX" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/>](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 [<img align="left" alt="Ruby" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1920px-LaTeX_project_logo_bird.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
@@ -40,6 +41,8 @@ And many more ...
 
 
 <br/>
+<br/>
+
 
 ### My PC configuration
 
